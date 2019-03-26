@@ -1,0 +1,111 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,700);
+
+
+.logoImg{
+    margin: 0 20px;
+    height: 50px;
+}
+.avatar{
+    border-radius: 140px;
+    border: 2px solid white;
+    margin-top: 5px;
+    float: right;
+    height: 40px;
+}
+.postavatar{
+    border-radius: 140px;
+    border: 2px solid white;
+    float: left;
+    height: 15px;
+}
+
+.add{
+    margin: 0 0 0 0;
+    float: right;
+}
+.us{
+    color: beige;
+    width: 150px;
+    margin: 10px ;
+    float: right;
+}
+header{
+    background: rgb(55, 89, 73);
+    height: 53px;
+}
+
+.line{
+    background: rgb(212,233,224);
+    height: 10px;
+}
+
+body{
+    height: 80vh;
+}
+.posts{
+    height: auto;
+    background: white; /* Цвет фона */
+    border: 2px solid black; /* Белая рамка */
+    border-radius: 10px; /* Радиус скругления */
+    margin-left: auto;
+    margin-right: auto;
+    width: 33em
+}
+.photoPost{
+    width: 340px;
+    height: 340px;
+    clear:both;
+    margin: 50px 0;
+}
+.editPost{
+    margin: 0 0 0 0;
+    width: 30px;
+    float: right;
+}
+.likePost{
+    width: 30px;
+    height: 30px;
+    margin: 0px 5px 0px 0px;
+    float: left;
+}
+.textLike{
+    color: black;
+    font-style: normal;
+    font-size: 15px;
+    margin: 5px 5px 5px 0px;
+    float: left;
+}
+.textComment{
+    color: black;
+    font-size: 15px;
+    margin: 5px 5px 5px 10px;
+}
+
+.textHashTag{
+    color:blue;
+    font-size: 15px;
+    clear: left;
+    /*margin: 5px 5px 5px 10px;*/
+}
+.postUser{
+    color: black;
+    font-size: 15px;
+    margin: 0px 5px
+}
+
+.dataUser{
+    color: black;
+    font-size: 15px;
+    margin: 0px 5px
+}
+button{
+    color:yellow;
+    font-size: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    background: deepskyblue;
+}
+footer{
+    background: rgb(55, 89, 73);
+    height: 33px;
+}
